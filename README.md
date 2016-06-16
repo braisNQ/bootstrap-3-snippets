@@ -27,6 +27,7 @@ bs3-badge | Badge (Default)
 Trigger | Description
 --- | ---
 bs3-breadcrumbs | Breadcrumbs
+bs3-breadcrumbs-link | Breadcrumbs link
 
 ### Buttons
 
